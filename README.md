@@ -131,12 +131,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0437-path-sum-iii](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0437-path-sum-iii](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0437-path-sum-iii](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
