@@ -157,4 +157,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
