@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0394-decode-string) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0443-string-compression](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0423-reconstruct-original-digits-from-english](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0423-reconstruct-original-digits-from-english](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [1319-unique-number-of-occurrences](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
