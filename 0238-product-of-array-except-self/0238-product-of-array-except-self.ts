@@ -1,34 +1,31 @@
 function productExceptSelf(nums: number[]): number[] {
-    // make 2 runs -> prefix, postfix
-    let prefix: number[] = [...nums];
-    let postfix: number[] = [...nums];
+    let prefix: number[] = [];
+    let postfix: number[] = [];
 
     let prefixProduct: number = 1;
     let postfixProduct: number = 1;
 
-    // prefix run
     for (let i = 0; i < nums.length; i++)   {
-        prefixProduct *= prefix[i];
-        prefix[i] = prefixProduct; 
+        prefix[i] = prefixProduct * nums[i]
+        prefixProduct = prefix[i];
     }
 
-    // postfix run
     for (let i = nums.length - 1; i >= 0; i--)   {
-        postfixProduct *= postfix[i];
-        postfix[i] = postfixProduct; 
+        postfix[i] = postfixProduct * nums[i]
+        postfixProduct = postfix[i];
     }
 
-    let results: number[] = [];
-    // final run to multiply postfix & prefix
+    let result: number[] = [];
+
     for (let i = 0; i < nums.length; i++)   {
         if (i == 0) {
-            results.push(1 * postfix[i + 1]);
+            result.push(1 * postfix[i+1]);
         } else if (i == nums.length - 1)    {
-            results.push(prefix[i - 1] * 1);
+            result.push(prefix[i - 1] * 1);
         } else {
-            results.push(prefix[i - 1] * postfix[i + 1]);
+            result.push(prefix[i - 1] * postfix[i + 1]);
         }
     }
 
-    return results;
+    return result;
 };
