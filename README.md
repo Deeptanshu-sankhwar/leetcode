@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
@@ -202,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
