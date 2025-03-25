@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0437-path-sum-iii) |
+| [0572-subtree-of-another-tree](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0437-path-sum-iii) |
+| [0572-subtree-of-another-tree](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0437-path-sum-iii) |
+| [0572-subtree-of-another-tree](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -223,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0371-sum-of-two-integers) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
