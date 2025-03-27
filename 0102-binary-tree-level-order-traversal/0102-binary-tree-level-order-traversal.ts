@@ -11,7 +11,7 @@
  *     }
  * }
  */
-// basic dfs implementation
+// basic bfs implementation
 function levelOrder(root: TreeNode | null): number[][] {
     let result: number[][] = [];
 
