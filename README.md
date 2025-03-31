@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0394-decode-string) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0242-valid-anagram) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [1319-unique-number-of-occurrences](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0242-valid-anagram) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
