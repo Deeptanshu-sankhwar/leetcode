@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0242-valid-anagram) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0242-valid-anagram) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
