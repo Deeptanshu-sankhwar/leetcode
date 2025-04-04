@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2428-equal-row-and-column-pairs](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
