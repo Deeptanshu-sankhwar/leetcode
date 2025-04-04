@@ -4,6 +4,7 @@ function searchMatrix(matrix: number[][], target: number): boolean {
     let row = 0;
     let col = matrix[0].length - 1;
 
+    // start from the top-right, and go left or down
     while (row < matrix.length && col >= 0) {
         const current = matrix[row][col];
         if (current === target) return true;
