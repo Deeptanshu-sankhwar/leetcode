@@ -2,7 +2,7 @@ function characterReplacement(s: string, k: number): number {
     let max: number = 0;
 
     let hashMap = new Map<string, number>();
-    let maxFrequency: number = 0;
+    let maxFrequency: number = 0; // to compare only to max occuring character in a window
 
     // create the hash map of every english alphabet and assign it to 0
     const characters = [
