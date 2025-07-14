@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0443-string-compression) |
+| [0974-reorder-data-in-log-files](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0974-reorder-data-in-log-files) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0907-koko-eating-bananas) |
+| [0974-reorder-data-in-log-files](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0974-reorder-data-in-log-files) |
 | [1046-max-consecutive-ones-iii](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0974-reorder-data-in-log-files](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0974-reorder-data-in-log-files) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
