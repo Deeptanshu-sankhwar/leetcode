@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0388-longest-absolute-file-path](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0392-is-subsequence](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0394-decode-string) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0388-longest-absolute-file-path](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0735-asteroid-collision) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0388-longest-absolute-file-path](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0437-path-sum-iii](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/Deeptanshu-sankhwar/leetcode/tree/master/0904-leaf-similar-trees) |
